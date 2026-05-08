@@ -32,6 +32,7 @@ This project aims to support early outbreak detection, real-time monitoring, and
 
 ## Project Structure
 
+```bash
 OUTBREAK/
 │
 ├── src/
@@ -45,10 +46,9 @@ OUTBREAK/
 │   ├── hospital_B.csv
 │   └── hospital_C.csv
 │
-├── venv/
-│
 ├── requirements.txt
 └── README.md
+```
 
 ## System Workflow
 
